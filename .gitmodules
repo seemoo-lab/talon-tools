@@ -1,0 +1,4 @@
+[submodule "sector-patterns"]
+	path = sector-patterns
+	url = https://github.com/seemoo-lab/talon-sector-patterns
+	branch = master
