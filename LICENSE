@@ -1,6 +1,20 @@
-MIT License
 
-Copyright (c) 2017 Secure Mobile Networking Lab
+
+         ###########   ###########   ##########    ##########
+        ############  ############  ############  ############
+        ##            ##            ##   ##   ##  ##        ##
+        ##            ##            ##   ##   ##  ##        ##
+        ###########   ####  ######  ##   ##   ##  ##    ######
+         ###########  ####  #       ##   ##   ##  ##    #    #
+                  ##  ##    ######  ##   ##   ##  ##    #    #
+                  ##  ##    #       ##   ##   ##  ##    #    #
+        ############  ##### ######  ##   ##   ##  ##### ######
+        ###########    ###########  ##   ##   ##   ##########
+
+           S E C U R E   M O B I L E   N E T W O R K I N G
+
+
+Copyright (c) 2017 Secure Mobile Networking Lab (SEEMOO)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +23,22 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included 
+   in all copies or substantial portions of the Software.
+
+2. Any use of the Software which results in an academic publication or
+   other publication which includes a bibliography must include
+   citations to the Talon Tools project as follows:
+
+   "Daniel Steinmetzer, Daniel Wegemer and Matthias Hollick. Talon Tools: 
+   The Framework for Practical IEEE 802.11ad Research. 2017.
+   https://seemoo.de/talon-tools"
+
+3. The Software is not used by, in cooperation with, or on behalf of
+   any armed forces, intelligence agencies, reconnaissance agencies,
+   defense agencies, offense agencies or any supplier, contractor, or
+   research associated.
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
