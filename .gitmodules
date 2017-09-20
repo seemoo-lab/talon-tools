@@ -2,3 +2,7 @@
 	path = sector-patterns
 	url = https://github.com/seemoo-lab/talon-sector-patterns
 	branch = master
+[submodule "lede-ad7200"]
+	path = lede-ad7200
+	url = https://github.com/seemoo-lab/lede-ad7200.git
+	branch = release
