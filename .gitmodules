@@ -6,3 +6,7 @@
 	path = lede-ad7200
 	url = https://github.com/seemoo-lab/lede-ad7200.git
 	branch = release
+[submodule "nexmon-arc"]
+	path = nexmon-arc
+	url = https://github.com/seemoo-lab/nexmon-arc
+	branch = release
