@@ -3,10 +3,13 @@ The Talon Tools project consolidates a set of software tools for practical resea
 
 ## Contents
 * [lede-ad7200](https://github.com/seemoo-lab/lede-ad7200): LEDE environment ported to support TP-Link TALON AD7200 devices.
+* [nexmon-arc](https://github.com/seemoo-lab/nexmon-arc): The nexmon C-based firmware patching framework adapted for the ARC architecture.
 * [sector-patterns](https://github.com/seemoo-lab/talon-sector-patterns): Measured Antenna Sector Pattern from our CoNEXT 2017 paper.
 
 ## Getting Started
-Please follow our [getting started] tutorial and consider the documentation in the individual projects.
+Please follow our [getting started](GettingStarted) tutorial to establish your first wireless gigabit link.
+For individual documentations, consider the involved projects directly: For example, you can build your own LEDE image with [lede-ad7200](https://github.com/seemoo-lab/lede-ad7200)
+and create custom patches for the wireless chip with [nexmon-arc](https://github.com/seemoo-lab/nexmon-arc). If you just want to use our antenna patterns in your evalations, check out the [sector-patterns](https://github.com/seemoo-lab/talon-sector-patterns) repository. 
 
 ## WARNING
 This software might damage your hardware and may void your hardware’s warranty. Use our tools at your risk and responsibility.
