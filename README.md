@@ -7,7 +7,7 @@ The Talon Tools project consolidates a set of software tools for practical resea
 * [sector-patterns](https://github.com/seemoo-lab/talon-sector-patterns): Measured Antenna Sector Pattern from our CoNEXT 2017 paper.
 
 ## Getting Started
-Please follow our [getting started](GettingStarted) tutorial to establish your first wireless gigabit link.
+Please follow our [getting started](GettingStarted.md) tutorial to establish your first wireless gigabit link.
 For individual documentations, consider the involved projects directly: For example, you can build your own LEDE image with [lede-ad7200](https://github.com/seemoo-lab/lede-ad7200)
 and create custom patches for the wireless chip with [nexmon-arc](https://github.com/seemoo-lab/nexmon-arc). If you just want to use our antenna patterns in your evalations, check out the [sector-patterns](https://github.com/seemoo-lab/talon-sector-patterns) repository. 
 
